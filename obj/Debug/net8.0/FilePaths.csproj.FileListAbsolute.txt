@@ -1,0 +1,14 @@
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.AssemblyInfoInputs.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.AssemblyInfo.cs
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\bin\Debug\net8.0\FilePaths.exe
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\bin\Debug\net8.0\FilePaths.deps.json
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\bin\Debug\net8.0\FilePaths.runtimeconfig.json
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\bin\Debug\net8.0\FilePaths.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\bin\Debug\net8.0\FilePaths.pdb
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\refint\FilePaths.dll
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.pdb
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\FilePaths.genruntimeconfig.cache
+C:\Users\ksfuh\Desktop\CsharpProjects\FilePaths\obj\Debug\net8.0\ref\FilePaths.dll
